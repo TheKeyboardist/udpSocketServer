@@ -3,20 +3,20 @@
 #*
 #* Program name      : "Server.py"
 #*
-#* Author            : Iansmathew
+#* Author            : Ivan Kravchenko
 #* 
 #* Student Number    : 101183016
 #*
-#* Date created      : 20/10/03
+#* Date created      : 20/10/07
 #*
-#* Description       : Connect with EC2 server and relay player position data.
+#* Description       : getting connection between a unity client and a server to exchange position data
 #*
 #* Last modified     : 20/10/07
 #*
 #* Revision History  :
 #*
-#*Date        Author Ref    Revision (Date in YYYYMMDD format) 
-#*20/10/07    Ivan Kravchenko        Edited Script 
+#*Date        Author Ref       Revision (Date in YYYYMMDD format) 
+#*20/10/07    Ivan Kravchenko           Edited Script 
 #*
 #|**********************************************************************/
 import random
